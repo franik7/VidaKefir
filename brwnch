@@ -1,0 +1,812 @@
+[
+  {
+    "branch_id": 10290,
+    "bank_name": "Apple Bank",
+    "full_address": "122 E 42nd St, New York, NY 10168",
+    "county": "New York",
+    "deposits_thousands": 2788889,
+    "deposits_dollars": 2788889000,
+    "deposits_millions": "2788.9",
+    "year": 2025
+  },
+  {
+    "branch_id": 10287,
+    "bank_name": "Apple Bank",
+    "full_address": "2100 Broadway At 73rd Street, New York, NY 10023",
+    "county": "New York",
+    "deposits_thousands": 348941,
+    "deposits_dollars": 348941000,
+    "deposits_millions": "348.9",
+    "year": 2025
+  },
+  {
+    "branch_id": 237122,
+    "bank_name": "Apple Bank",
+    "full_address": "1075 Central Park Ave, Scarsdale, NY 10583",
+    "county": "Westchester",
+    "deposits_thousands": 341419,
+    "deposits_dollars": 341419000,
+    "deposits_millions": "341.4",
+    "year": 2025
+  },
+  {
+    "branch_id": 468810,
+    "bank_name": "Apple Bank",
+    "full_address": "1753 E Main St, Mohegan Lake, NY 10547",
+    "county": "Westchester",
+    "deposits_thousands": 324319,
+    "deposits_dollars": 324319000,
+    "deposits_millions": "324.3",
+    "year": 2025
+  },
+  {
+    "branch_id": 237128,
+    "bank_name": "Apple Bank",
+    "full_address": "1555 1st Ave, New York, NY 10028",
+    "county": "New York",
+    "deposits_thousands": 301082,
+    "deposits_dollars": 301082000,
+    "deposits_millions": "301.1",
+    "year": 2025
+  },
+  {
+    "branch_id": 235743,
+    "bank_name": "Apple Bank",
+    "full_address": "2021 Bartow Ave, Bronx, NY 10475",
+    "county": "Bronx",
+    "deposits_thousands": 291016,
+    "deposits_dollars": 291016000,
+    "deposits_millions": "291.0",
+    "year": 2025
+  },
+  {
+    "branch_id": 625158,
+    "bank_name": "Apple Bank",
+    "full_address": "1395 Northern Blvd, Manhasset, NY 11030",
+    "county": "Nassau",
+    "deposits_thousands": 285339,
+    "deposits_dollars": 285339000,
+    "deposits_millions": "285.3",
+    "year": 2025
+  },
+  {
+    "branch_id": 236152,
+    "bank_name": "Apple Bank",
+    "full_address": "600 Columbus Ave, Thornwood, NY 10594",
+    "county": "Westchester",
+    "deposits_thousands": 282179,
+    "deposits_dollars": 282179000,
+    "deposits_millions": "282.2",
+    "year": 2025
+  },
+  {
+    "branch_id": 363138,
+    "bank_name": "Apple Bank",
+    "full_address": "365  South Oyster Bay Road, Plainview, NY 11803",
+    "county": "Nassau",
+    "deposits_thousands": 274435,
+    "deposits_dollars": 274435000,
+    "deposits_millions": "274.4",
+    "year": 2025
+  },
+  {
+    "branch_id": 226286,
+    "bank_name": "Apple Bank",
+    "full_address": "3986 Hempstead Tpke, Bethpage, NY 11714",
+    "county": "Nassau",
+    "deposits_thousands": 267342,
+    "deposits_dollars": 267342000,
+    "deposits_millions": "267.3",
+    "year": 2025
+  },
+  {
+    "branch_id": 237084,
+    "bank_name": "Apple Bank",
+    "full_address": "111 4th Avenue, 4th Avenue and East 12th St., New York, NY 10003",
+    "county": "New York",
+    "deposits_thousands": 245597,
+    "deposits_dollars": 245597000,
+    "deposits_millions": "245.6",
+    "year": 2025
+  },
+  {
+    "branch_id": 237090,
+    "bank_name": "Apple Bank",
+    "full_address": "91 Route 111, Smithtown Township, NY 11787",
+    "county": "Suffolk",
+    "deposits_thousands": 243355,
+    "deposits_dollars": 243355000,
+    "deposits_millions": "243.4",
+    "year": 2025
+  },
+  {
+    "branch_id": 444087,
+    "bank_name": "Apple Bank",
+    "full_address": "2655 Richmond Ave, Ste 2005, Staten Island, NY 10314",
+    "county": "Richmond",
+    "deposits_thousands": 236801,
+    "deposits_dollars": 236801000,
+    "deposits_millions": "236.8",
+    "year": 2025
+  },
+  {
+    "branch_id": 235744,
+    "bank_name": "Apple Bank",
+    "full_address": "85 Pondfield Rd, Bronxville, NY 10708",
+    "county": "Westchester",
+    "deposits_thousands": 227665,
+    "deposits_dollars": 227665000,
+    "deposits_millions": "227.7",
+    "year": 2025
+  },
+  {
+    "branch_id": 237137,
+    "bank_name": "Apple Bank",
+    "full_address": "1168 1st Ave, New York, NY 10065",
+    "county": "New York",
+    "deposits_thousands": 225314,
+    "deposits_dollars": 225314000,
+    "deposits_millions": "225.3",
+    "year": 2025
+  },
+  {
+    "branch_id": 237098,
+    "bank_name": "Apple Bank",
+    "full_address": "9808 Queens Blvd, Rego Park, NY 11374",
+    "county": "Queens",
+    "deposits_thousands": 224561,
+    "deposits_dollars": 224561000,
+    "deposits_millions": "224.6",
+    "year": 2025
+  },
+  {
+    "branch_id": 441096,
+    "bank_name": "Apple Bank",
+    "full_address": "1000 Merchant Concourse, Westbury, NY 11590",
+    "county": "Nassau",
+    "deposits_thousands": 215555,
+    "deposits_dollars": 215555000,
+    "deposits_millions": "215.6",
+    "year": 2025
+  },
+  {
+    "branch_id": 235739,
+    "bank_name": "Apple Bank",
+    "full_address": "74 Hugh Grant Circle, Bronx, NY 10472",
+    "county": "Bronx",
+    "deposits_thousands": 209702,
+    "deposits_dollars": 209702000,
+    "deposits_millions": "209.7",
+    "year": 2025
+  },
+  {
+    "branch_id": 226279,
+    "bank_name": "Apple Bank",
+    "full_address": "280 E Park Ave, Long Beach, NY 11561",
+    "county": "Nassau",
+    "deposits_thousands": 207280,
+    "deposits_dollars": 207280000,
+    "deposits_millions": "207.3",
+    "year": 2025
+  },
+  {
+    "branch_id": 365364,
+    "bank_name": "Apple Bank",
+    "full_address": "44 Lee Ave, Brooklyn, NY 11211",
+    "county": "Kings",
+    "deposits_thousands": 189976,
+    "deposits_dollars": 189976000,
+    "deposits_millions": "190.0",
+    "year": 2025
+  },
+  {
+    "branch_id": 236294,
+    "bank_name": "Apple Bank",
+    "full_address": "1212 Avenue M, Brooklyn, NY 11230",
+    "county": "Kings",
+    "deposits_thousands": 184421,
+    "deposits_dollars": 184421000,
+    "deposits_millions": "184.4",
+    "year": 2025
+  },
+  {
+    "branch_id": 441099,
+    "bank_name": "Apple Bank",
+    "full_address": "1954 Flatbush Ave, Brooklyn, NY 11234",
+    "county": "Kings",
+    "deposits_thousands": 183455,
+    "deposits_dollars": 183455000,
+    "deposits_millions": "183.5",
+    "year": 2025
+  },
+  {
+    "branch_id": 557505,
+    "bank_name": "Apple Bank",
+    "full_address": "1395 Northern Blvd, Manhasset, NY 11030",
+    "county": "Nassau",
+    "deposits_thousands": 178123,
+    "deposits_dollars": 178123000,
+    "deposits_millions": "178.1",
+    "year": 2025
+  },
+  {
+    "branch_id": 237123,
+    "bank_name": "Apple Bank",
+    "full_address": "604 West 181st Street, New York, NY 10033",
+    "county": "New York",
+    "deposits_thousands": 171253,
+    "deposits_dollars": 171253000,
+    "deposits_millions": "171.3",
+    "year": 2025
+  },
+  {
+    "branch_id": 236354,
+    "bank_name": "Apple Bank",
+    "full_address": "10 Route 25a, East Setauket, NY 11733",
+    "county": "Suffolk",
+    "deposits_thousands": 165003,
+    "deposits_dollars": 165003000,
+    "deposits_millions": "165.0",
+    "year": 2025
+  },
+  {
+    "branch_id": 237144,
+    "bank_name": "Apple Bank",
+    "full_address": "3552 Johnson Ave, Bronx, NY 10463",
+    "county": "Bronx",
+    "deposits_thousands": 158910,
+    "deposits_dollars": 158910000,
+    "deposits_millions": "158.9",
+    "year": 2025
+  },
+  {
+    "branch_id": 10215,
+    "bank_name": "Apple Bank",
+    "full_address": "138 Main St, Sag Harbor, NY 11963",
+    "county": "Suffolk",
+    "deposits_thousands": 158146,
+    "deposits_dollars": 158146000,
+    "deposits_millions": "158.1",
+    "year": 2025
+  },
+  {
+    "branch_id": 237141,
+    "bank_name": "Apple Bank",
+    "full_address": "4519 13th Ave, # 4521, Brooklyn, NY 11219",
+    "county": "Kings",
+    "deposits_thousands": 158047,
+    "deposits_dollars": 158047000,
+    "deposits_millions": "158.0",
+    "year": 2025
+  },
+  {
+    "branch_id": 237087,
+    "bank_name": "Apple Bank",
+    "full_address": "10 Hanover Sq, New York, NY 10005",
+    "county": "New York",
+    "deposits_thousands": 157151,
+    "deposits_dollars": 157151000,
+    "deposits_millions": "157.2",
+    "year": 2025
+  },
+  {
+    "branch_id": 237140,
+    "bank_name": "Apple Bank",
+    "full_address": "7415 5th Ave, Brooklyn, NY 11209",
+    "county": "Kings",
+    "deposits_thousands": 153595,
+    "deposits_dollars": 153595000,
+    "deposits_millions": "153.6",
+    "year": 2025
+  },
+  {
+    "branch_id": 359319,
+    "bank_name": "Apple Bank",
+    "full_address": "115 Cedarhurst Ave, Cedarhurst, NY 11516",
+    "county": "Nassau",
+    "deposits_thousands": 153353,
+    "deposits_dollars": 153353000,
+    "deposits_millions": "153.4",
+    "year": 2025
+  },
+  {
+    "branch_id": 236150,
+    "bank_name": "Apple Bank",
+    "full_address": "44 E 161st St, Bronx, NY 10451",
+    "county": "Bronx",
+    "deposits_thousands": 151100,
+    "deposits_dollars": 151100000,
+    "deposits_millions": "151.1",
+    "year": 2025
+  },
+  {
+    "branch_id": 237095,
+    "bank_name": "Apple Bank",
+    "full_address": "465 Grand St, New York, NY 10002",
+    "county": "New York",
+    "deposits_thousands": 150570,
+    "deposits_dollars": 150570000,
+    "deposits_millions": "150.6",
+    "year": 2025
+  },
+  {
+    "branch_id": 237147,
+    "bank_name": "Apple Bank",
+    "full_address": "486 Neptune Ave, Brooklyn, NY 11224",
+    "county": "Kings",
+    "deposits_thousands": 146622,
+    "deposits_dollars": 146622000,
+    "deposits_millions": "146.6",
+    "year": 2025
+  },
+  {
+    "branch_id": 237132,
+    "bank_name": "Apple Bank",
+    "full_address": "3075 Veterans Memorial Hwy, Ronkonkoma, NY 11779",
+    "county": "Suffolk",
+    "deposits_thousands": 144021,
+    "deposits_dollars": 144021000,
+    "deposits_millions": "144.0",
+    "year": 2025
+  },
+  {
+    "branch_id": 237138,
+    "bank_name": "Apple Bank",
+    "full_address": "1321 Kings Hwy, Brooklyn, NY 11229",
+    "county": "Kings",
+    "deposits_thousands": 140210,
+    "deposits_dollars": 140210000,
+    "deposits_millions": "140.2",
+    "year": 2025
+  },
+  {
+    "branch_id": 236801,
+    "bank_name": "Apple Bank",
+    "full_address": "1693 Hempstead Tpke, Elmont, NY 11003",
+    "county": "Nassau",
+    "deposits_thousands": 140209,
+    "deposits_dollars": 140209000,
+    "deposits_millions": "140.2",
+    "year": 2025
+  },
+  {
+    "branch_id": 236146,
+    "bank_name": "Apple Bank",
+    "full_address": "2186 White Plains Road, Bronx, NY 10462",
+    "county": "Bronx",
+    "deposits_thousands": 140160,
+    "deposits_dollars": 140160000,
+    "deposits_millions": "140.2",
+    "year": 2025
+  },
+  {
+    "branch_id": 356838,
+    "bank_name": "Apple Bank",
+    "full_address": "776 Manhattan Ave, Brooklyn, NY 11222",
+    "county": "Kings",
+    "deposits_thousands": 140118,
+    "deposits_dollars": 140118000,
+    "deposits_millions": "140.1",
+    "year": 2025
+  },
+  {
+    "branch_id": 236864,
+    "bank_name": "Apple Bank",
+    "full_address": "151 Sunrise Hwy, North Lindenhurst, NY 11757",
+    "county": "Suffolk",
+    "deposits_thousands": 139352,
+    "deposits_dollars": 139352000,
+    "deposits_millions": "139.4",
+    "year": 2025
+  },
+  {
+    "branch_id": 641474,
+    "bank_name": "Apple Bank",
+    "full_address": "8 Little East Neck Rd, Babylon, NY 11702",
+    "county": "Suffolk",
+    "deposits_thousands": 137730,
+    "deposits_dollars": 137730000,
+    "deposits_millions": "137.7",
+    "year": 2025
+  },
+  {
+    "branch_id": 237145,
+    "bank_name": "Apple Bank",
+    "full_address": "6701 18th Ave, # 03, Brooklyn, NY 11204",
+    "county": "Kings",
+    "deposits_thousands": 136680,
+    "deposits_dollars": 136680000,
+    "deposits_millions": "136.7",
+    "year": 2025
+  },
+  {
+    "branch_id": 441100,
+    "bank_name": "Apple Bank",
+    "full_address": "120 E Fordham Rd, Bronx, NY 10468",
+    "county": "Bronx",
+    "deposits_thousands": 135571,
+    "deposits_dollars": 135571000,
+    "deposits_millions": "135.6",
+    "year": 2025
+  },
+  {
+    "branch_id": 10204,
+    "bank_name": "Apple Bank",
+    "full_address": "10 Downing St, New York, NY 10014",
+    "county": "New York",
+    "deposits_thousands": 135353,
+    "deposits_dollars": 135353000,
+    "deposits_millions": "135.4",
+    "year": 2025
+  },
+  {
+    "branch_id": 638443,
+    "bank_name": "Apple Bank",
+    "full_address": "32 N Main St, New City, NY 10956",
+    "county": "Rockland",
+    "deposits_thousands": 130906,
+    "deposits_dollars": 130906000,
+    "deposits_millions": "130.9",
+    "year": 2025
+  },
+  {
+    "branch_id": 236292,
+    "bank_name": "Apple Bank",
+    "full_address": "333 Glen Cove Ave, Sea Cliff, NY 11579",
+    "county": "Nassau",
+    "deposits_thousands": 130342,
+    "deposits_dollars": 130342000,
+    "deposits_millions": "130.3",
+    "year": 2025
+  },
+  {
+    "branch_id": 237146,
+    "bank_name": "Apple Bank",
+    "full_address": "405 Brighton Beach Ave, # 407, Brooklyn, NY 11235",
+    "county": "Kings",
+    "deposits_thousands": 129091,
+    "deposits_dollars": 129091000,
+    "deposits_millions": "129.1",
+    "year": 2025
+  },
+  {
+    "branch_id": 237143,
+    "bank_name": "Apple Bank",
+    "full_address": "1401 Avenue J, Brooklyn, NY 11230",
+    "county": "Kings",
+    "deposits_thousands": 127120,
+    "deposits_dollars": 127120000,
+    "deposits_millions": "127.1",
+    "year": 2025
+  },
+  {
+    "branch_id": 237127,
+    "bank_name": "Apple Bank",
+    "full_address": "943 Carmans Rd, Massapequa, NY 11758",
+    "county": "Nassau",
+    "deposits_thousands": 126805,
+    "deposits_dollars": 126805000,
+    "deposits_millions": "126.8",
+    "year": 2025
+  },
+  {
+    "branch_id": 237099,
+    "bank_name": "Apple Bank",
+    "full_address": "4373 Kissena Blvd, Flushing, NY 11355",
+    "county": "Queens",
+    "deposits_thousands": 125342,
+    "deposits_dollars": 125342000,
+    "deposits_millions": "125.3",
+    "year": 2025
+  },
+  {
+    "branch_id": 237092,
+    "bank_name": "Apple Bank",
+    "full_address": "775 Pulaski Rd, Greenlawn, NY 11740",
+    "county": "Suffolk",
+    "deposits_thousands": 125051,
+    "deposits_dollars": 125051000,
+    "deposits_millions": "125.1",
+    "year": 2025
+  },
+  {
+    "branch_id": 10189,
+    "bank_name": "Apple Bank",
+    "full_address": "12 Westchester Sq, Bronx, NY 10461",
+    "county": "Bronx",
+    "deposits_thousands": 122449,
+    "deposits_dollars": 122449000,
+    "deposits_millions": "122.4",
+    "year": 2025
+  },
+  {
+    "branch_id": 236352,
+    "bank_name": "Apple Bank",
+    "full_address": "41 Commack Rd, Commack, NY 11725",
+    "county": "Suffolk",
+    "deposits_thousands": 115559,
+    "deposits_dollars": 115559000,
+    "deposits_millions": "115.6",
+    "year": 2025
+  },
+  {
+    "branch_id": 237142,
+    "bank_name": "Apple Bank",
+    "full_address": "1971 86th St, # 1973, Brooklyn, NY 11214",
+    "county": "Kings",
+    "deposits_thousands": 108530,
+    "deposits_dollars": 108530000,
+    "deposits_millions": "108.5",
+    "year": 2025
+  },
+  {
+    "branch_id": 441097,
+    "bank_name": "Apple Bank",
+    "full_address": "278 Eighth Avenue, New York, NY 10011",
+    "county": "New York",
+    "deposits_thousands": 107604,
+    "deposits_dollars": 107604000,
+    "deposits_millions": "107.6",
+    "year": 2025
+  },
+  {
+    "branch_id": 226284,
+    "bank_name": "Apple Bank",
+    "full_address": "167 Walt Whitman Rd, Huntington Station, NY 11746",
+    "county": "Suffolk",
+    "deposits_thousands": 106912,
+    "deposits_dollars": 106912000,
+    "deposits_millions": "106.9",
+    "year": 2025
+  },
+  {
+    "branch_id": 226272,
+    "bank_name": "Apple Bank",
+    "full_address": "345 7th Ave, New York, NY 10001",
+    "county": "New York",
+    "deposits_thousands": 105290,
+    "deposits_dollars": 105290000,
+    "deposits_millions": "105.3",
+    "year": 2025
+  },
+  {
+    "branch_id": 572716,
+    "bank_name": "Apple Bank",
+    "full_address": "75 Route 59, Monsey, NY 10952",
+    "county": "Rockland",
+    "deposits_thousands": 103775,
+    "deposits_dollars": 103775000,
+    "deposits_millions": "103.8",
+    "year": 2025
+  },
+  {
+    "branch_id": 236355,
+    "bank_name": "Apple Bank",
+    "full_address": "50 Montauk Hwy, East Hampton, NY 11937",
+    "county": "Suffolk",
+    "deposits_thousands": 102559,
+    "deposits_dollars": 102559000,
+    "deposits_millions": "102.6",
+    "year": 2025
+  },
+  {
+    "branch_id": 226285,
+    "bank_name": "Apple Bank",
+    "full_address": "33 Mamaroneck Ave, White Plains, NY 10601",
+    "county": "Westchester",
+    "deposits_thousands": 101732,
+    "deposits_dollars": 101732000,
+    "deposits_millions": "101.7",
+    "year": 2025
+  },
+  {
+    "branch_id": 226280,
+    "bank_name": "Apple Bank",
+    "full_address": "91-31 Queens Boulevard, New York City, NY 11373",
+    "county": "Queens",
+    "deposits_thousands": 100767,
+    "deposits_dollars": 100767000,
+    "deposits_millions": "100.8",
+    "year": 2025
+  },
+  {
+    "branch_id": 236804,
+    "bank_name": "Apple Bank",
+    "full_address": "200 Birch Hill Rd, Locust Valley, NY 11560",
+    "county": "Nassau",
+    "deposits_thousands": 100053,
+    "deposits_dollars": 100053000,
+    "deposits_millions": "100.1",
+    "year": 2025
+  },
+  {
+    "branch_id": 237126,
+    "bank_name": "Apple Bank",
+    "full_address": "592 W 207th St, New York, NY 10034",
+    "county": "New York",
+    "deposits_thousands": 96985,
+    "deposits_dollars": 96985000,
+    "deposits_millions": "97.0",
+    "year": 2025
+  },
+  {
+    "branch_id": 226274,
+    "bank_name": "Apple Bank",
+    "full_address": "17033 Hillside Ave, Jamaica, NY 11432",
+    "county": "Queens",
+    "deposits_thousands": 96094,
+    "deposits_dollars": 96094000,
+    "deposits_millions": "96.1",
+    "year": 2025
+  },
+  {
+    "branch_id": 277158,
+    "bank_name": "Apple Bank",
+    "full_address": "326 Court St, Brooklyn, NY 11231",
+    "county": "Kings",
+    "deposits_thousands": 94366,
+    "deposits_dollars": 94366000,
+    "deposits_millions": "94.4",
+    "year": 2025
+  },
+  {
+    "branch_id": 568797,
+    "bank_name": "Apple Bank",
+    "full_address": "7801 37th Ave, Jackson Heights, NY 11372",
+    "county": "Queens",
+    "deposits_thousands": 83863,
+    "deposits_dollars": 83863000,
+    "deposits_millions": "83.9",
+    "year": 2025
+  },
+  {
+    "branch_id": 237086,
+    "bank_name": "Apple Bank",
+    "full_address": "1320 Avenue Of The Americas, New York, NY 10019",
+    "county": "New York",
+    "deposits_thousands": 79549,
+    "deposits_dollars": 79549000,
+    "deposits_millions": "79.5",
+    "year": 2025
+  },
+  {
+    "branch_id": 635136,
+    "bank_name": "Apple Bank",
+    "full_address": "1289 Boston Post Rd, Larchmont, NY 10538",
+    "county": "Westchester",
+    "deposits_thousands": 78218,
+    "deposits_dollars": 78218000,
+    "deposits_millions": "78.2",
+    "year": 2025
+  },
+  {
+    "branch_id": 358160,
+    "bank_name": "Apple Bank",
+    "full_address": "1575 50th St, Brooklyn, NY 11219",
+    "county": "Kings",
+    "deposits_thousands": 73629,
+    "deposits_dollars": 73629000,
+    "deposits_millions": "73.6",
+    "year": 2025
+  },
+  {
+    "branch_id": 430172,
+    "bank_name": "Apple Bank",
+    "full_address": "318 Albany Ave, Brooklyn, NY 11213",
+    "county": "Kings",
+    "deposits_thousands": 70548,
+    "deposits_dollars": 70548000,
+    "deposits_millions": "70.5",
+    "year": 2025
+  },
+  {
+    "branch_id": 236803,
+    "bank_name": "Apple Bank",
+    "full_address": "418 Myrtle Ave, Brooklyn, NY 11205",
+    "county": "Kings",
+    "deposits_thousands": 66237,
+    "deposits_dollars": 66237000,
+    "deposits_millions": "66.2",
+    "year": 2025
+  },
+  {
+    "branch_id": 237124,
+    "bank_name": "Apple Bank",
+    "full_address": "3815 Broadway, New York City, NY 10032",
+    "county": "New York",
+    "deposits_thousands": 63966,
+    "deposits_dollars": 63966000,
+    "deposits_millions": "64.0",
+    "year": 2025
+  },
+  {
+    "branch_id": 650288,
+    "bank_name": "Apple Bank",
+    "full_address": "33 Nathaniel Pl, Englewood, NJ 07631",
+    "county": "Bergen",
+    "deposits_thousands": 60784,
+    "deposits_dollars": 60784000,
+    "deposits_millions": "60.8",
+    "year": 2025
+  },
+  {
+    "branch_id": 235738,
+    "bank_name": "Apple Bank",
+    "full_address": "101 E 170th St, Bronx, NY 10452",
+    "county": "Bronx",
+    "deposits_thousands": 59724,
+    "deposits_dollars": 59724000,
+    "deposits_millions": "59.7",
+    "year": 2025
+  },
+  {
+    "branch_id": 237125,
+    "bank_name": "Apple Bank",
+    "full_address": "169 E 125th St, New York, NY 10035",
+    "county": "New York",
+    "deposits_thousands": 57614,
+    "deposits_dollars": 57614000,
+    "deposits_millions": "57.6",
+    "year": 2025
+  },
+  {
+    "branch_id": 460566,
+    "bank_name": "Apple Bank",
+    "full_address": "11612 Queens Blvd, Forest Hills, NY 11375",
+    "county": "Queens",
+    "deposits_thousands": 57529,
+    "deposits_dollars": 57529000,
+    "deposits_millions": "57.5",
+    "year": 2025
+  },
+  {
+    "branch_id": 235736,
+    "bank_name": "Apple Bank",
+    "full_address": "370 E 149th St, Bronx, NY 10455",
+    "county": "Bronx",
+    "deposits_thousands": 51988,
+    "deposits_dollars": 51988000,
+    "deposits_millions": "52.0",
+    "year": 2025
+  },
+  {
+    "branch_id": 656892,
+    "bank_name": "Apple Bank",
+    "full_address": "1421-1425 Sheepshead Bay Road, Brooklyn, NY 11235",
+    "county": "Kings",
+    "deposits_thousands": 46284,
+    "deposits_dollars": 46284000,
+    "deposits_millions": "46.3",
+    "year": 2025
+  },
+  {
+    "branch_id": 645133,
+    "bank_name": "Apple Bank",
+    "full_address": "30-98C Steinway Street, Astoria, NY 11103",
+    "county": "Queens",
+    "deposits_thousands": 43993,
+    "deposits_dollars": 43993000,
+    "deposits_millions": "44.0",
+    "year": 2025
+  },
+  {
+    "branch_id": 649960,
+    "bank_name": "Apple Bank",
+    "full_address": "99 Wood Ave S, Fl 8, Iselin, NJ 08830",
+    "county": "Middlesex",
+    "deposits_thousands": 34974,
+    "deposits_dollars": 34974000,
+    "deposits_millions": "35.0",
+    "year": 2025
+  },
+  {
+    "branch_id": 673714,
+    "bank_name": "Apple Bank",
+    "full_address": "140 East Kennedy Boulevard, Lakewood, NJ 08701",
+    "county": "Ocean",
+    "deposits_thousands": 3414,
+    "deposits_dollars": 3414000,
+    "deposits_millions": "3.4",
+    "year": 2025
+  }
+]
